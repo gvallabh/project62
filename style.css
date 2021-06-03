@@ -1,0 +1,30 @@
+
+body{
+    background-color: lime;
+}
+img{
+
+    width:1200px;
+    height:520px;
+    
+}
+.img2{
+    width: 400px;
+    height:300px;
+}
+h1{
+    text-align: center;
+    background-color: darkblue;
+    color: aqua;
+}
+h2{
+    text-align: center;
+    background-color: brown;
+    color: lightblue;
+}
+h3{
+   text-align: center;
+    background-color: brown;
+    color: lightblue; 
+}
+    
